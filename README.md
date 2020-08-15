@@ -1,1 +1,1 @@
-![image](https://github.com/thirdbyte/thirdbyte/dino.gif)
+![image](https://github.com/thirdbyte/thirdbyte/blob/master/dino.gif)
